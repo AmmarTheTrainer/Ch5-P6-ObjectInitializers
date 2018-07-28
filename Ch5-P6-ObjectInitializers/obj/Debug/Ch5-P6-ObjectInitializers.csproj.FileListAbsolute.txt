@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Projects\Ch5-P6-ObjectInitializers\Ch5-P6-ObjectInitializers\bin\Debug\Ch5-P6-ObjectInitializers.exe.config
+C:\Users\Lenovo\Documents\Projects\Ch5-P6-ObjectInitializers\Ch5-P6-ObjectInitializers\bin\Debug\Ch5-P6-ObjectInitializers.exe
+C:\Users\Lenovo\Documents\Projects\Ch5-P6-ObjectInitializers\Ch5-P6-ObjectInitializers\bin\Debug\Ch5-P6-ObjectInitializers.pdb
+C:\Users\Lenovo\Documents\Projects\Ch5-P6-ObjectInitializers\Ch5-P6-ObjectInitializers\obj\Debug\Ch5-P6-ObjectInitializers.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Ch5-P6-ObjectInitializers\Ch5-P6-ObjectInitializers\obj\Debug\Ch5-P6-ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Ch5-P6-ObjectInitializers\Ch5-P6-ObjectInitializers\obj\Debug\Ch5-P6-ObjectInitializers.exe
+C:\Users\Lenovo\Documents\Projects\Ch5-P6-ObjectInitializers\Ch5-P6-ObjectInitializers\obj\Debug\Ch5-P6-ObjectInitializers.pdb
